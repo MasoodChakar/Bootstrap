@@ -1,0 +1,12 @@
+* {
+    color: black;
+}
+
+.foundercards {
+    text-align: center;
+    gap: 20px;
+}
+
+.footerdown {
+    padding-top: 50px;
+}
